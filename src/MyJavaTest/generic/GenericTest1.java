@@ -1,6 +1,5 @@
 package MyJavaTest.generic;
 
-import org.apache.groovy.ginq.provider.collection.runtime.Queryable;
 import org.testng.annotations.Test;
 
 public class GenericTest1 {
