@@ -2,12 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ByteStream" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java_JDK/Lambdas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java_JDK/MultiThread" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Java_JDK/calculator" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Swing" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/javaCollection" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/javaUtil" vcs="Git" />
   </component>
 </project>
