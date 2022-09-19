@@ -4,8 +4,6 @@ package BankingProject.domain;/*
  * and performs a series of transactions with the Account object.
  */
 
-import BankingProject.domain.Account;
-
 public class TestBanking {
 
   public static void main(String[] args) {
